@@ -1,0 +1,13 @@
+user=int(input("enter the number))
+if user>=5:
+    print("can go to shool')
+elif user>=18:
+    print("can  vote in elections")
+elif user>=21:
+    print("can drive a car" )
+elif user>=24:
+    print("can marry")
+elif user>=25:
+    print("legelly drink")
+else:
+    print("man can alive for maximum 130 years")
